@@ -1,5 +1,5 @@
 # LinkedIn Feed Killer
-If you're like me, you hate LinkedIn. It's a gross website, and aren't we all using too many social media platforms to begin with? Unfortunatly, if you work in tech or certain other fields, you're pretty much forced to use it if you want a job. I wanted to do something to make LinkedIn an easier pill to swollow. In the folder above is a CSS file with a few lines of CSS you can use with the Stylus Chrome tool to get rid of the feed and other features on LinkedIn
+If you're like me, you hate LinkedIn. It's a gross website, and aren't we all using too many social media platforms to begin with? Unfortunatly, if you work in tech or certain other fields, you're pretty much forced to use it if you want a job. I wanted to do something to make LinkedIn an easier pill to swollow. The styles.css in this repo is a CSS file with a few lines of CSS you can use with the Stylus Chrome tool to get rid of the feed and other features on LinkedIn
 
 ## How to Use
 You'll need to have the Stylus Chrome tool installed for this to work.
