@@ -1,0 +1,13 @@
+.feed-shared-news-module, /* Today's News and Views */
+.feed-shared-update-v2,   /* Feed */
+.ad-banner-container,     /* Ads */
+.premium-upsell-link      /* Try Premium Links */
+{
+    display: none;
+}
+
+[class^="launchpad"]
+{
+    max-height: 1px;
+    overflow: hidden;
+}
